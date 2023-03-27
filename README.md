@@ -1,7 +1,7 @@
-# Naive sentiment analysis
+# Machine Learning-Based Sentiment Analysis of Google Play Store Reviews Using a Naive Bayes Classifier
 
 ## Objective:
-This is a simple project that uses the Naive Bayes Classifier and Scikit-learn to create a Google Play Store review classifier (Sentiment Analysis) in Python. The objective is to categorize user reviews as good or bad. 
+This is a simple project that uses the Naive Bayes Classifier and Scikit-learn to create a Google Play Store review classifier with Python. The objective is to categorize user reviews as good or bad. 
 
 In this dataset, we will use the 23 most popular mobile apps.
 
